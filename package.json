@@ -1,0 +1,16 @@
+{
+  "name": "api-hackweek",
+  "version": "1.0.0",
+  "description": "API para o projeto Hackweek UFC - Crateús",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "author": "TEAM 8",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
